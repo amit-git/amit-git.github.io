@@ -1,4 +1,4 @@
-# Live migration guide
+# Mesos Zookeeper Cluster migration guide.
 
 ## Problem
 
