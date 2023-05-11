@@ -33,3 +33,6 @@ Mesos Agent Cluster-B is connected to Zookeeper Cluster-B and will be the cluste
 Once all tasks are drained from Mesos Agent Cluster-A, we can safely tear it down.
 
 ![ZkCopy-4](/images/zkcopy-4.png)
+
+### Step 6 - Tear down Zookeper Cluster-A
+Zookeeper cluster-A can be safely removed as no mesos agents or master nodes are connected to it exclusively.
